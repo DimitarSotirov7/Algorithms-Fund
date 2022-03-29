@@ -6,7 +6,7 @@ namespace Permutation
     class Program
     {
         private static List<string> coll = new List<string>() { "A", "B", "C" };
-        private static List<string> combination = new List<string>(); //[ "", "" ]
+        private static List<string> combination = new List<string>();
 
         static void Main(string[] args)
         {
